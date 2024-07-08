@@ -19,13 +19,13 @@ Please note that the following projects/courses have been made entirely by me al
   - I spent 0 € and earnt a little bit, so I can't complain.
 
   As apparently I didn't update some Google Play terms, it got removed from the Store, but you could download and install the apk here:
-
-  You can watch a review of the game here:
+  
 
 2) RPG project (2022-2023): I started to develop a 2D RPG game intended for desktop and mobile. This is a more complex project and it's not finished, but I completed a demo. Please note that I learnt concepts about OOP and refactoring that I would definitely apply to this project now, after studying first year of DAW. I identify bad quality code in this project that I would change if I had to start it over or refactor it. You can download the apk for Android here:
+https://github.com/PabloPalGil/projectRPG/blob/1a65600bbdbc77c85fb5a43e017c591ce884b2f8/Download%20apk%20demo%20v1.05.04a
 
 
-3) Studying FPGS-DAW (2023-2024) - Web Applications Development on semi-attendance: the methodology is online except for the exams. Completed first year with top grades of my group. I remark the following lessons off of this course:
+4) Studying FPGS-DAW (2023-2024) - Web Applications Development on semi-attendance: the methodology is online except for the exams. Completed first year with top grades of my group. I remark the following lessons off of this course:
   - I've learnt Java in good detail, including the concepts of Object-Oriented Programming (which I didn't know to the RPG game I was       developing, but I'll do from now on).
   - JavaScript, which I learnt by coding a responsive personal website with clear/dark theme and also a To-Do List webpage (LocalStorage).
   - Definition of SQL databases (drawing Entity-Relation diagrams and schemes).
@@ -33,6 +33,8 @@ Please note that the following projects/courses have been made entirely by me al
   - Regular expressions and basic Linux commands and management.
 
   My grades here (average 9.67 / 10):
+  https://github.com/PabloPalGil/PabloPalGil/blob/6b30b7046b2e1e4eea324ac93588d07b169f4ed7/notas_DAW1.png
+  
   You will be able to find some of the projects done during the course here on my github.
 
 4) I'm working on a DataBase to use in my current company, where I work as engineer. I intend to create a basic CRM from scratch to digitalise some parts of the processes of the company so it can be more competitive. I would like to create the database on PostgreSQL (using dBeaver), keep it updated and using Java to automate a variety of tasks accessing the database with IntelliJ drivers for PostgreSQL.

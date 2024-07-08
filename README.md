@@ -12,11 +12,11 @@ Currently studying FPGS-DAW - Web Applications Development (first year completed
 Please note that the following projects/courses have been made entirely by me alone while working full-time as an engineer.
 
 1) Game App: I developed a full game which I released on the Google Play Store (2017), called "Race Zero". Remarkable lessons and milestones of this project:
-Learnt Unity and C# (kind of).
-- I had no idea about OOP at the time, so my code is absolute trash...but it worked! I wouldn't code things even remotely like that again, but I had a lot of fun doing it.
-- I made every aspect of the game by myself (except for the music, which was copyright-free). This is, I draw all the assets (learnt some illustrator and photoshop skills) and I coded everything, including the NPC racers, game modes, saving, menus, etc.
-- The game is greatly inspired by the SNES game F-Zero, but I implemented some original game modes and mechanics.
-- I spent 0 € and earnt a little bit, so I can't complain.
+  - Learnt Unity and C# (kind of).
+  - I had no idea about OOP at the time, so my code is absolute trash...but it worked! I wouldn't code things even remotely like that         again, but I had a lot of fun doing it.
+  - I made every aspect of the game by myself (except for the music, which was copyright-free). This is, I draw all the assets (learnt some   illustrator and photoshop skills) and I coded everything, including the NPC racers, game modes, saving, menus, etc.
+  - The game is greatly inspired by the SNES game F-Zero, but I implemented some original game modes and mechanics.
+  - I spent 0 € and earnt a little bit, so I can't complain.
 
   As apparently I didn't update some Google Play terms, it got removed from the Store, but you could download and install the apk here:
 
@@ -26,11 +26,11 @@ Learnt Unity and C# (kind of).
 
 
 3) Studying FPGS-DAW (2023-2024) - Web Applications Development on semi-attendance: the methodology is online except for the exams. Completed first year with top grades of my group. I remark the following lessons off of this course:
-- I've learnt Java in good detail, including the concepts of Object-Oriented Programming (which I didn't apply to the RPG game I was developing, but I'll do from now on).
-- JavaScript, which I learnt by coding a responsive personal website with clear/dark theme and also a To-Do List webpage (LocalStorage).
-- Definition of SQL databases (drawing Entity-Relation diagrams and schemes).
-- I have studied SQL and PL/SQL in great detail (sub-queries, left and outer joins, triggers, functions) using PostgreSQL and dBeaver.
-- Regular expressions and basic Linux commands and management.
+  - I've learnt Java in good detail, including the concepts of Object-Oriented Programming (which I didn't apply to the RPG game I was       developing, but I'll do from now on).
+  - JavaScript, which I learnt by coding a responsive personal website with clear/dark theme and also a To-Do List webpage (LocalStorage).
+  - Definition of SQL databases (drawing Entity-Relation diagrams and schemes).
+  - I have studied SQL and PL/SQL in great detail (sub-queries, left and outer joins, triggers, functions) using PostgreSQL and dBeaver.
+  - Regular expressions and basic Linux commands and management.
 
   My grades here (average 9.67 / 10):
   You will be able to find some of the projects done during the course here on my github.

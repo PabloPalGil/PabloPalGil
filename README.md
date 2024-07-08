@@ -22,11 +22,11 @@ Please note that the following projects/courses have been made entirely by me al
 
   You can watch a review of the game here:
 
-2) RPG project (2022-2023): I started to develop a 2D RPG game intended for desktop and mobile. This is a more complex project and it's not finished, but I completed a demo. You can download the apk for Android here:
+2) RPG project (2022-2023): I started to develop a 2D RPG game intended for desktop and mobile. This is a more complex project and it's not finished, but I completed a demo. Please note that I learnt concepts about OOP and refactoring that I would definitely apply to this project now, after studying first year of DAW. I identify bad quality code in this project that I would change if I had to start it over or refactor it. You can download the apk for Android here:
 
 
 3) Studying FPGS-DAW (2023-2024) - Web Applications Development on semi-attendance: the methodology is online except for the exams. Completed first year with top grades of my group. I remark the following lessons off of this course:
-  - I've learnt Java in good detail, including the concepts of Object-Oriented Programming (which I didn't apply to the RPG game I was       developing, but I'll do from now on).
+  - I've learnt Java in good detail, including the concepts of Object-Oriented Programming (which I didn't know to the RPG game I was       developing, but I'll do from now on).
   - JavaScript, which I learnt by coding a responsive personal website with clear/dark theme and also a To-Do List webpage (LocalStorage).
   - Definition of SQL databases (drawing Entity-Relation diagrams and schemes).
   - I have studied SQL and PL/SQL in great detail (sub-queries, left and outer joins, triggers, functions) using PostgreSQL and dBeaver.

@@ -38,8 +38,8 @@ https://github.com/PabloPalGil/projectRPG/blob/1a65600bbdbc77c85fb5a43e017c591ce
   
   You will be able to find some of the projects done during the course here on my github.
 
-4) I'm working on a DataBase to use in my current company, where I work as engineer. I intend to create a basic CRM from scratch to digitalise some parts of the processes of the company so it can be more competitive. I would like to create the database on PostgreSQL (using dBeaver), keep it updated and using Java to automate a variety of tasks accessing the database with IntelliJ drivers for PostgreSQL.
-This is the Entity-Relation diagram:
+4) I'm working on a DataBase to use in my current company, where I work as engineer. I intend to create a basic CRM from scratch to digitalise some parts of the processes of the company so it can be more competitive. I am defining the database through dBeaver using PostgreSQL and the idea is to code some Java programs to automate a variety of tasks accessing the database with IntelliJ drivers for PostgreSQL.
+This is the Entity-Relation diagram I defined for this task:
 
 <h2>English?</h2>
 It is well-known that English is the language to-go when talking about IT. I have a certificed C1 English level (Cambridge English: Advanced (CAE)).

@@ -10,7 +10,7 @@ Currently studying FPGS-DAW - Web Applications Development (first year completed
 
 <h2>What have I done so far?</h2>
 
-Please note that the following projects/courses have been made entirely by me alone while working full-time as an engineer.
+Please note that the following projects/courses have been made entirely by me while working full-time.
 
 1) Game App: I developed a full game which I released on the Google Play Store (2017), called "Race Zero". Remarkable lessons and milestones of this project:
   - Learnt Unity and C# (kind of).
@@ -38,7 +38,7 @@ https://github.com/PabloPalGil/projectRPG/blob/1a65600bbdbc77c85fb5a43e017c591ce
   
   You will be able to find some of the projects done during the course here on my github.
 
-4) I'm working on a DataBase to use in my current company, where I work as engineer. I intend to create a basic CRM from scratch to digitalise some parts of the processes of the company so it can be more competitive. I am defining the database through dBeaver using PostgreSQL and the idea is to code some Java programs to automate a variety of tasks accessing the database with IntelliJ drivers for PostgreSQL.
+4) I'm working on a DataBase to use in my current company. I intend to create a basic CRM from scratch to digitalise some parts of the processes of the company so it can be more competitive. I am defining the database using SQL and PL/SQL on dBeaver and the idea is to code some Java programs to automate a variety of tasks accessing the database with IntelliJ drivers for PostgreSQL.
 This is the Entity-Relation diagram I defined for this task:
 https://github.com/PabloPalGil/DatabaseCP/blob/5e2e6f5ea0eaa1607bb6d7e604830538e07fbac9/ER-diagram.png
 

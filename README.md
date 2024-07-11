@@ -40,6 +40,8 @@ https://github.com/PabloPalGil/projectRPG/blob/1a65600bbdbc77c85fb5a43e017c591ce
 
 4) I'm working on a DataBase to use in my current company, where I work as engineer. I intend to create a basic CRM from scratch to digitalise some parts of the processes of the company so it can be more competitive. I am defining the database through dBeaver using PostgreSQL and the idea is to code some Java programs to automate a variety of tasks accessing the database with IntelliJ drivers for PostgreSQL.
 This is the Entity-Relation diagram I defined for this task:
+https://github.com/PabloPalGil/DatabaseCP/blob/5e2e6f5ea0eaa1607bb6d7e604830538e07fbac9/ER-diagram.png
+
 
 <h2>English?</h2>
 It is well-known that English is the language to-go when talking about IT. I have a certificed C1 English level (Cambridge English: Advanced (CAE)).

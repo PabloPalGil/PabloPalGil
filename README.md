@@ -5,8 +5,11 @@
 
 This is Pablo: one brain trapped in a healthy body who loves coding! I studied industrial engineering back when I was an unexperienced child. Following the path I chose, I started my career as an engineer. I currently work as it (designing machinery, btw), but what really sets my heart on fire is problem solving and automation. Cutting down technical problems applying logic and maths is something I truly enjoy, and I am addicted to the satisfaction returned by a succesful algorithm. Throughout the years, I've found out that this satisfaction is maximised by programming. For this reason, I decided to change my career direction towards development.
 
-Currently studying FPGS-DAW - Web Applications Development (first year completed)
 
+
+<h2>What do I want?</h2>
+
+I am learning slowly but surely, on the side, combining my studies with my work as engineer. However, the ideal path for me would be to take a graduate programme, so I could reach my goal faster while keep paying my bills.
 
 <h2>What have I done so far?</h2>
 
@@ -47,9 +50,10 @@ https://github.com/PabloPalGil/DatabaseCP/blob/5e2e6f5ea0eaa1607bb6d7e604830538e
 It is well-known that English is the language to-go when talking about IT. I have a certificed C1 English level (Cambridge English: Advanced (CAE)).
 
 <h2>Android?</h2>
-Finally, I would like to express my passion for mobile development. The games I developed have been intended and designed for Android. On the other hand, I actually started DAW (the W stands for web) and not DAM (the M stands for Multi-platform) because there was no option for DAM on semi-attendance, but they both share the first year. Now I'm trying to change and continue the second year on DAM. During the summer "holidays" (I'm still working as an engineer) I'm following an Android development course from Frogames to keep learning. The course:
+I would like to express my preference for mobile development. The games I developed have been intended and designed for Android. I have some experience with Java but I believe I should change to Kotlin, that's why now I'm following an Android development course from Frogames to keep learning. The course:
 https://cursos.frogamesformacion.com/bundles/ruta-android
 
+<h2>Other stuff</h2>
 LinkedIn (only focused on the engineering career, so it may not be much appealing):
 www.linkedin.com/in/pablo-palanques-gil-297b6b12a
 

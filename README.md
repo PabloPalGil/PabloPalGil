@@ -22,10 +22,21 @@ Please note that the following projects/courses have been made entirely by me wh
   - The game is greatly inspired by the SNES game F-Zero, but I implemented some original game modes and mechanics.
   - I spent 0 € and earnt a little bit, so I can't complain.
 
-  As apparently I didn't update some Google Play terms, it got removed from the Store, but you could download and install the apk here:
+  Launch trailer here:
+  https://youtu.be/Yvh7rLUQCzE
   
+  Gameplay here:
+  https://drive.google.com/file/d/1ZTy-hBUGodh64KwRQe7Gab1lkBmpNkMM/view?usp=sharing
+  
+  As apparently I didn't update some Google Play terms, it got removed from the Store, but you can download the apk here to play (more info on my "Race Zero" repository:
+https://drive.google.com/file/d/1QlOfZ7vCYFznAuSq1MiSSbUHIK0tUyCp/view?usp=sharing
 
-2) RPG project (2022-2023): I started to develop a 2D RPG game intended for desktop and mobile. This is a more complex project and it's not finished, but I completed a demo. Please note that I learnt concepts about OOP and refactoring that I would definitely apply to this project now, after studying first year of DAW. I identify bad quality code in this project that I would change if I had to start it over or refactor it. You can download the apk for Android here:
+2) RPG project (2022-2023): I started to develop a 2D RPG game intended for desktop and mobile. This is a more complex project and it's not finished, but I completed a demo. Please note that I learnt concepts about OOP and refactoring that I would definitely apply to this project now, after studying first year of DAW. I identify bad quality code in this project that I would change if I had to start it over or refactor it.
+
+You can watch part of the demo here:
+https://drive.google.com/file/d/1KY2wREL3H-iZXQp9VqSsBDJTASS5Zuro/view?usp=sharing
+
+You can download the demo apk for Android here:
 https://github.com/PabloPalGil/projectRPG/blob/1a65600bbdbc77c85fb5a43e017c591ce884b2f8/Download%20apk%20demo%20v1.05.04a
 
 
